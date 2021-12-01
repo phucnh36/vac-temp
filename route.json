@@ -1,0 +1,8 @@
+[
+    {
+        "importName": "Page566",
+        "importFrom": "./page/page566",
+        "routePath": "/page566",
+        "routeContent": "<Page566 />"
+    }
+]
